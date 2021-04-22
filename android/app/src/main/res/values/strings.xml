@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Please update your facebook config in this strings-->
+    <string name="app_name">demosigninn</string>
+    <string name="facebook_app_id">554136999309534</string>
+    <string name="fb_login_protocol_scheme">fb554136999309534</string>
+</resources>

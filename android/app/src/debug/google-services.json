@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373082862945",
+    "project_id": "demosignin-8267d",
+    "storage_bucket": "demosignin-8267d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373082862945:android:b44d6d18ba89ea9c8cc120",
+        "android_client_info": {
+          "package_name": "com.flutter.firebase.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373082862945-rr2o9081lfcsdb76ul1lb3614u4gsju4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.firebase.example.firebaseauth",
+            "certificate_hash": "687ad0d93dd5ddb3935745a059ea26d683a39317"
+          }
+        },
+        {
+          "client_id": "373082862945-3tfja7iinsmvl0b1umfklsbp6fg2ra8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0J0kuRUme8IFq1hwgEWNKpgQXNoot30c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373082862945-3tfja7iinsmvl0b1umfklsbp6fg2ra8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
